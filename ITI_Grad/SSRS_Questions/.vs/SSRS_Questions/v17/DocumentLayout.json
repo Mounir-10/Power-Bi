@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F8420D-4911-4798-96B1-C7737B44F15F}|SSRS_Questions\\SSRS_Questions.rptproj|B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\GradeReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{00F8420D-4911-4798-96B1-C7737B44F15F}|SSRS_Questions\\SSRS_Questions.rptproj|solutionrelative:SSRS_Questions\\GradeReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F8420D-4911-4798-96B1-C7737B44F15F}|SSRS_Questions\\SSRS_Questions.rptproj|B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\Course topic.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{00F8420D-4911-4798-96B1-C7737B44F15F}|SSRS_Questions\\SSRS_Questions.rptproj|solutionrelative:SSRS_Questions\\Course topic.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeReport.rdl [Design]",
+              "DocumentMoniker": "B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\GradeReport.rdl",
+              "RelativeDocumentMoniker": "SSRS_Questions\\GradeReport.rdl",
+              "ToolTip": "B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\GradeReport.rdl [Design]",
+              "RelativeToolTip": "SSRS_Questions\\GradeReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T22:57:41.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course topic.rdl [Design]",
+              "DocumentMoniker": "B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\Course topic.rdl",
+              "RelativeDocumentMoniker": "SSRS_Questions\\Course topic.rdl",
+              "ToolTip": "B:\\1 iti\\1lab\\1Final Project\\1My project\\final\\SSRS_Questions\\SSRS_Questions\\Course topic.rdl [Design]",
+              "RelativeToolTip": "SSRS_Questions\\Course topic.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T22:57:18.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

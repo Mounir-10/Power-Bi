@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DS_Studs_Dept">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=ITI_GP</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2aa79f28-c400-4c27-bbab-9f5f4a1f97b9</DataSourceID>
+</RptDataSource>
